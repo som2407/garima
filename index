@@ -1,0 +1,44 @@
+<html>
+    <head>
+        <title>
+            Cv
+        </title>
+    </head>
+    <body bgcolor="red">
+        <h1 style="text-align: center;">
+          <b><i> Garima Tripathi</b></i> 
+        </h1>
+        <hr>
+        <img src="./eee.jpeg" width="150" height="150px"         
+    </body>
+    <hr>
+        <h3 style="text-align: center;">
+            <i><b>OBJECTIVE</b></i>
+        </h3>
+           I am a student of MAHARAJA SOORAJMAL INSTITUTE and I want to grab the oppurtunity
+           so that i can glow and enhanced my skills.
+        I am pursuing BBA GENERAL and I am planning to pursue MBA after that.
+       
+       <hr>
+       <h3 style="text-align: center;">
+        ACHIEVEMENT
+       </h3>
+       <ol>
+        
+       </ol>
+       <hr>
+       <h3 style="text-align: center;">
+        STRENGTHS
+       </h3>
+        <h6 style="text-align: center;">
+                      1.PUNCTUALITY
+        </h6>             
+        <h6 style="text-align: center;"> 2.HARD WORKING</h6>
+        <h6 style="text-align: center;">3.DETERMINED</h6>
+        <hr>
+        <h3 style="text-align: center;">
+            HOBBIES AND PERSONAL DETAILS
+        </h3>
+     
+        
+</html>
